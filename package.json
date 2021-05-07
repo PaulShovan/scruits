@@ -54,7 +54,7 @@
     "pusher-js": "^4.3.1",
     "shortid": "^2.2.14",
     "stats-lite": "^2.2.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "validator": "^10.10.0"
   }
 }
