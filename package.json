@@ -55,6 +55,6 @@
     "shortid": "^2.2.14",
     "stats-lite": "^2.2.0",
     "underscore": "^1.9.1",
-    "validator": "^10.10.0"
+    "validator": "^13.7.0"
   }
 }
