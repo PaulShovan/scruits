@@ -33,7 +33,7 @@
     "amazon-cognito-identity-js": "^3.0.7",
     "amazon-cognito-js": "^1.1.0",
     "apn": "^2.2.0",
-    "aws-sdk": "^2.395.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
